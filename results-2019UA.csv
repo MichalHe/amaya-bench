@@ -1,220 +1,220 @@
-name;amaya-old-runtime;amaya-old-result;amaya-new-runtime;amaya-new-result;z3-runtime;z3-result;cvc5-runtime;cvc5-result
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_0.smt2;0.73;  unsat;0.5;  unsat;0.01; unsat;0.08; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_1.smt2;0.95;  unsat;0.84;  unsat;0.01; unsat;0.08; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_10.smt2;0.6;  unsat;0.43;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_11.smt2;0.6;  unsat;0.45;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_12.smt2;0.56;  unsat;0.26;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_13.smt2;0.54;  unsat;0.41;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_14.smt2;0.55;  unsat;0.45;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_15.smt2;0.55;  unsat;0.44;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_16.smt2;0.49;  unsat;0.46;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_18.smt2;0.49;  unsat;0.37;  unsat;0.01; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_19.smt2;0.6;  unsat;0.32;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_2.smt2;0.9;  unsat;0.72;  unsat;0.01; unsat;0.08; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_20.smt2;0.4;  unsat;0.29;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_21.smt2;0.52;  unsat;0.44;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_22.smt2;0.58;  unsat;0.44;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_23.smt2;0.48;  unsat;0.4;  unsat;0.01; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_24.smt2;0.53;  unsat;0.42;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_25.smt2;0.57;  unsat;0.42;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_26.smt2;0.41;  unsat;0.32;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_27.smt2;0.56;  unsat;0.38;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_28.smt2;0.57;  unsat;0.41;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_29.smt2;0.45;  unsat;0.42;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_3.smt2;0.77;  unsat;0.7;  unsat;0.01; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_30.smt2;0.62;  unsat;0.41;  unsat;0.0; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_31.smt2;0.55;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_32.smt2;0.63;  unsat;0.33;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_33.smt2;0.61;  unsat;0.43;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_34.smt2;0.63;  unsat;0.35;  unsat;0.0; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_35.smt2;0.58;  unsat;0.37;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_36.smt2;0.56;  unsat;0.37;  unsat;0.01; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_37.smt2;0.54;  unsat;0.4;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_38.smt2;0.53;  unsat;0.31;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_39.smt2;0.57;  unsat;0.44;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_4.smt2;0.74;  unsat;0.74;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_40.smt2;0.51;  unsat;0.39;  unsat;0.02; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_41.smt2;0.48;  unsat;0.35;  unsat;0.01; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_42.smt2;0.59;  unsat;0.38;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_43.smt2;0.48;  unsat;0.37;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_44.smt2;0.59;  unsat;0.39;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_45.smt2;0.59;  unsat;0.38;  unsat;0.0; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_46.smt2;0.61;  unsat;0.4;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_48.smt2;0.4;  unsat;0.43;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_49.smt2;0.54;  unsat;0.42;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_5.smt2;0.79;  unsat;0.68;  unsat;0.0; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_55.smt2;0.57;  unsat;0.34;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_58.smt2;0.48;  unsat;0.25;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_59.smt2;0.94;  unsat;0.55;  unsat;0.01; unsat;0.14; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_6.smt2;0.78;  unsat;0.8;  unsat;0.0; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_60.smt2;7.62;  sat;4.25;  sat;0.02; unsat;0.16; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_61.smt2;5.85;  sat;3.86;  sat;0.02; unsat;0.16; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_62.smt2;7.09;  sat;4.55;  sat;0.02; unsat;0.16; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_63.smt2;0.71;  sat;0.66;  sat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_64.smt2;0.93;  sat;0.68;  sat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_65.smt2;0.62;  sat;0.37;  sat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_66.smt2;2.08;  sat;1.54;  sat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_67.smt2;2.12;  sat;1.26;  sat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_68.smt2;1.74;  sat;1.51;  sat;0.0; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_69.smt2;TO;TO;0.22;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_7.smt2;0.82;  unsat;0.8;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_70.smt2;3.4;  sat;5.0;  sat;0.03; sat;0.08; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_71.smt2;1.6;  sat;5.24;  sat;0.01; sat;0.05; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_72.smt2;2.39;  sat;6.6;  sat;0.01; sat;0.05; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_73.smt2;TO;TO;0.35;  unsat;0.02; unsat;0.24; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_74.smt2;TO;TO;TO;TO;0.02; sat;0.13; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_75.smt2;TO;TO;TO;TO;0.01; sat;0.14; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_76.smt2;TO;TO;TO;TO;0.05; unsat;1.94; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_77.smt2;TO;TO;0.3;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_78.smt2;TO;TO;24.27;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_79.smt2;TO;TO;0.37;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_8.smt2;0.58;  unsat;0.39;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_80.smt2;TO;TO;0.36;  unsat;0.0; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_81.smt2;TO;TO;0.31;  unsat;0.0; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_82.smt2;TO;TO;TO;TO;0.22; unsat;1.54; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_83.smt2;TO;TO;TO;TO;0.07; unsat;1.21; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_84.smt2;TO;TO;0.31;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_85.smt2;TO;TO;0.31;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_86.smt2;TO;TO;0.3;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_87.smt2;TO;TO;0.26;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_88.smt2;TO;TO;0.23;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_89.smt2;TO;TO;0.53;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_9.smt2;0.61;  unsat;0.43;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_90.smt2;TO;TO;TO;TO;0.1; unsat;0.47; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_91.smt2;TO;TO;2.48;  sat;0.02; sat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_92.smt2;TO;TO;1.61;  unsat;0.02; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_93.smt2;TO;TO;0.54;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_94.smt2;TO;TO;1.16;  unsat;0.02; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_95.smt2;TO;TO;ERR;ERR;0.05; unsat;0.1; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_96.smt2;TO;TO;TO;TO;TO;TO;0.42; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_97.smt2;TO;TO;TO;TO;0.14; unsat;0.11; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_98.smt2;TO;TO;TO;TO;TO;TO;0.3; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_0.smt2;TO;TO;TO;TO;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_1.smt2;TO;TO;TO;TO;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_10.smt2;0.4;  sat;0.27;  sat;0.1; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_11.smt2;TO;TO;TO;TO;36.16; sat;0.12; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_12.smt2;TO;TO;TO;TO;0.44; sat;0.54; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_13.smt2;TO;TO;TO;TO;0.74; sat;0.48; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_14.smt2;TO;TO;TO;TO;1.04; unsat;0.61; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_15.smt2;TO;TO;TO;TO;0.17; unsat;0.26; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_16.smt2;TO;TO;TO;TO;0.23; unsat;0.31; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_17.smt2;TO;TO;TO;TO;0.34; sat;0.5; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_18.smt2;TO;TO;TO;TO;0.28; unsat;0.44; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_2.smt2;1.96;  sat;1.39;  sat;0.63; sat;0.14; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_3.smt2;1.39;  sat;0.97;  sat;0.14; sat;0.15; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_4.smt2;1.03;  sat;0.73;  sat;TO;TO;0.14; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_5.smt2;1.02;  sat;0.77;  sat;TO;TO;0.2; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_6.smt2;0.92;  sat;0.67;  sat;0.39; sat;0.08; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_7.smt2;0.66;  sat;0.36;  sat;0.18; sat;0.1; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_8.smt2;0.38;  sat;0.25;  sat;0.12; sat;0.08; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_9.smt2;0.4;  sat;0.23;  sat;0.09; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_0.smt2;7.99;  sat;2.55;  sat;0.01; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_1.smt2;7.38;  sat;3.01;  sat;0.01; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_10.smt2;TO;TO;TO;TO;0.01; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_11.smt2;8.39;  sat;3.0;  sat;0.02; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_12.smt2;5.27;  sat;2.21;  sat;0.01; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_13.smt2;7.43;  sat;2.23;  sat;0.01; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_2.smt2;6.77;  sat;2.29;  sat;0.01; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_3.smt2;TO;TO;TO;TO;0.0; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_4.smt2;7.64;  sat;1.59;  sat;0.01; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_5.smt2;7.67;  sat;2.14;  sat;0.0; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_6.smt2;8.03;  sat;2.25;  sat;0.01; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_7.smt2;TO;TO;TO;TO;0.02; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_8.smt2;ERR;ERR;ERR;ERR;0.0; sat;0.05; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_9.smt2;6.71;  sat;2.41;  sat;0.01; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_0.smt2;2.21;  sat;11.53;  sat;0.01; sat;0.07; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_1.smt2;3.19;  unsat;17.32;  unsat;0.01; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_10.smt2;5.76;  sat;28.72;  sat;0.04; sat;0.15; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_11.smt2;3.14;  sat;10.36;  sat;0.01; sat;0.12; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_12.smt2;2.62;  sat;13.15;  sat;0.02; sat;0.18; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_13.smt2;TO;TO;TO;TO;0.03; unsat;0.2; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_2.smt2;3.21;  unsat;11.25;  unsat;0.01; unsat;0.09; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_3.smt2;2.1;  sat;15.45;  sat;0.01; sat;0.06; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_4.smt2;TO;TO;15.37;  sat;0.18; sat;0.16; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_5.smt2;TO;TO;1.36;  unsat;0.02; unsat;0.1; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_6.smt2;2.29;  sat;13.07;  sat;0.02; sat;0.11; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_7.smt2;5.17;  sat;31.12;  sat;0.05; sat;0.13; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_8.smt2;2.3;  unsat;15.38;  unsat;0.0; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_9.smt2;2.18;  unsat;13.64;  unsat;0.01; unsat;0.09; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_0.smt2;0.24;  sat;0.24;  sat;0.01; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_1.smt2;0.26;  sat;0.23;  sat;0.01; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_2.smt2;0.25;  sat;0.25;  sat;0.01; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_3.smt2;0.25;  sat;0.23;  sat;0.01; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/implicitunsignedconversion_true-unreach-call_true-termination.c_0.smt2;0.31;  sat;0.31;  sat;0.0; sat;0.01; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_0.smt2;0.63;  sat;0.4;  sat;0.01; sat;0.02; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_1.smt2;0.25;  unsat;0.24;  unsat;0.0; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_10.smt2;0.24;  unsat;0.25;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_11.smt2;0.24;  unsat;0.22;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_12.smt2;0.26;  unsat;0.22;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_13.smt2;0.26;  unsat;0.22;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_14.smt2;0.27;  unsat;0.25;  unsat;0.0; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_16.smt2;2.02;  sat;1.35;  sat;0.01; sat;0.03; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_17.smt2;2.3;  unsat;1.35;  unsat;0.0; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_18.smt2;2.42;  unsat;0.85;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_19.smt2;11.0;  sat;8.45;  sat;0.01; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_2.smt2;0.97;  unsat;0.4;  unsat;0.01; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_20.smt2;10.49;  unsat;10.87;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_21.smt2;8.11;  unsat;7.36;  unsat;0.02; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_22.smt2;13.94;  unsat;11.85;  unsat;0.19; unsat;0.07; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_23.smt2;7.99;  unsat;9.59;  unsat;0.01; unsat;0.07; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_24.smt2;9.57;  sat;8.34;  sat;0.01; sat;0.04; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_25.smt2;20.45;  unsat;19.63;  unsat;0.01; unsat;0.01; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_3.smt2;0.23;  unsat;0.2;  unsat;0.0; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_4.smt2;0.22;  unsat;0.2;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_5.smt2;0.28;  unsat;0.22;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_6.smt2;0.26;  unsat;0.24;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_7.smt2;0.27;  unsat;0.24;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_8.smt2;0.26;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_9.smt2;0.17;  unsat;0.22;  unsat;0.0; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_0.smt2;7.31;  unsat;8.74;  unsat;0.0; unsat;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_1.smt2;5.91;  unsat;6.51;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_10.smt2;TO;TO;TO;TO;TO;TO;0.15; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_11.smt2;TO;TO;TO;TO;0.06; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_12.smt2;0.36;  unsat;0.3;  unsat;0.0; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_13.smt2;0.37;  unsat;0.34;  unsat;0.04; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_14.smt2;0.37;  unsat;0.34;  unsat;0.01; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_15.smt2;0.32;  unsat;0.3;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_16.smt2;TO;TO;TO;TO;TO;TO;0.13; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_17.smt2;TO;TO;TO;TO;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_18.smt2;13.64;  unsat;16.98;  unsat;1.57; unsat;0.86; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_2.smt2;0.25;  unsat;0.23;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_3.smt2;12.28;  unsat;16.78;  unsat;TO;TO;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_4.smt2;12.14;  unsat;14.04;  unsat;TO;TO;0.02; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_5.smt2;11.3;  unsat;TO;TO;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_6.smt2;7.46;  unsat;19.43;  sat;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_7.smt2;28.23;  sat;36.91;  sat;0.01; sat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_8.smt2;TO;TO;TO;TO;TO;TO;0.15; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_9.smt2;TO;TO;TO;TO;10.84; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_0.smt2;TO;TO;TO;TO;0.01; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_1.smt2;TO;TO;TO;TO;TO;TO;0.4; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_10.smt2;TO;TO;0.22;  unsat;0.01; unsat;0.03; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_11.smt2;TO;TO;0.22;  unsat;0.01; unsat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_12.smt2;TO;TO;TO;TO;TO;TO;0.12; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_13.smt2;TO;TO;TO;TO;TO;TO;0.11; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_14.smt2;TO;TO;TO;TO;TO;TO;0.15; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_15.smt2;TO;TO;TO;TO;TO;TO;0.12; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_16.smt2;TO;TO;TO;TO;TO;TO;0.16; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_17.smt2;TO;TO;TO;TO;TO;TO;0.14; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_18.smt2;TO;TO;TO;TO;0.19; sat;0.08; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_2.smt2;TO;TO;0.21;  unsat;0.01; unsat;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_3.smt2;TO;TO;0.22;  unsat;0.02; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_4.smt2;TO;TO;0.21;  unsat;0.01; unsat;0.05; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_5.smt2;TO;TO;0.14;  unsat;0.01; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_6.smt2;TO;TO;0.22;  unsat;TO;TO;0.04; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_7.smt2;TO;TO;0.17;  unsat;0.02; unsat;0.06; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_8.smt2;TO;TO;0.18;  unsat;0.01; unsat;0.07; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_9.smt2;TO;TO;0.22;  unsat;0.02; unsat;0.07; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/pals_lcr-var-start-time.6_true-unreach-call.ufo.UNBOUNDED.pals.c_1.smt2;0.86;  sat;0.29;  sat;0.01; sat;0.05; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/s3_srvr_2_true-unreach-call_true-no-overflow_false-termination.BV.c.cil.c_0.smt2;0.28;  sat;0.23;  sat;0.0; sat;0.01; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_0.smt2;2.96;  sat;1.65;  sat;0.29; sat;6.88; sat
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_1.smt2;1.21;  sat;0.46;  sat;0.07; sat;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_10.smt2;0.8;  sat;0.5;  sat;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_11.smt2;0.76;  sat;0.5;  sat;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_2.smt2;2.1;  sat;2.4;  sat;0.5; unsat;0.28; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_3.smt2;1.99;  sat;1.12;  sat;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_4.smt2;1.16;  sat;0.39;  sat;TO;TO;0.07; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_5.smt2;1.22;  sat;0.53;  sat;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_6.smt2;0.92;  sat;0.94;  sat;TO;TO;TO;TO
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_7.smt2;1.12;  sat;0.67;  sat;TO;TO;0.11; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_8.smt2;0.81;  sat;0.36;  sat;TO;TO;10.97; unsat
-../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_9.smt2;0.77;  sat;0.49;  sat;TO;TO;TO;TO
+;name;amaya-old-runtime;amaya-old-result;amaya-new-runtime;amaya-new-result;z3-runtime;z3-result;cvc5-runtime;cvc5-result
+0;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_0.smt2;0.91;  unsat;0.84;  unsat;0.01; unsat;0.08; unsat
+1;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_1.smt2;0.75;  unsat;0.65;  unsat;0.01; unsat;0.08; unsat
+2;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_10.smt2;0.6;  unsat;0.43;  unsat;0.01; unsat;0.03; unsat
+3;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_11.smt2;0.61;  unsat;0.28;  unsat;0.01; unsat;0.05; unsat
+4;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_12.smt2;0.6;  unsat;0.35;  unsat;0.01; unsat;0.04; unsat
+5;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_13.smt2;0.53;  unsat;0.41;  unsat;0.01; unsat;0.04; unsat
+6;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_14.smt2;0.5;  unsat;0.43;  unsat;0.01; unsat;0.05; unsat
+7;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_15.smt2;0.52;  unsat;0.38;  unsat;0.01; unsat;0.04; unsat
+8;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_16.smt2;0.54;  unsat;0.37;  unsat;0.01; unsat;0.03; unsat
+9;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_18.smt2;0.49;  unsat;0.32;  unsat;0.01; unsat;0.02; unsat
+10;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_19.smt2;0.55;  unsat;0.36;  unsat;0.01; unsat;0.04; unsat
+11;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_2.smt2;0.92;  unsat;0.55;  unsat;0.01; unsat;0.08; unsat
+12;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_20.smt2;0.56;  unsat;0.43;  unsat;0.0; unsat;0.04; unsat
+13;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_21.smt2;0.58;  unsat;0.25;  unsat;0.01; unsat;0.05; unsat
+14;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_22.smt2;0.56;  unsat;0.42;  unsat;0.01; unsat;0.04; unsat
+15;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_23.smt2;0.62;  unsat;0.4;  unsat;0.01; unsat;0.02; unsat
+16;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_24.smt2;0.43;  unsat;0.42;  unsat;0.01; unsat;0.05; unsat
+17;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_25.smt2;0.48;  unsat;0.37;  unsat;0.0; unsat;0.04; unsat
+18;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_26.smt2;0.46;  unsat;0.4;  unsat;0.01; unsat;0.05; unsat
+19;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_27.smt2;0.58;  unsat;0.32;  unsat;0.01; unsat;0.04; unsat
+20;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_28.smt2;0.6;  unsat;0.43;  unsat;0.0; unsat;0.04; unsat
+21;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_29.smt2;0.61;  unsat;0.35;  unsat;0.01; unsat;0.03; unsat
+22;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_3.smt2;0.64;  unsat;0.83;  unsat;0.01; unsat;0.06; unsat
+23;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_30.smt2;0.53;  unsat;0.43;  unsat;0.0; unsat;0.03; unsat
+24;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_31.smt2;0.4;  unsat;0.34;  unsat;0.0; unsat;0.02; unsat
+25;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_32.smt2;0.57;  unsat;0.42;  unsat;0.0; unsat;0.04; unsat
+26;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_33.smt2;0.59;  unsat;0.28;  unsat;0.0; unsat;0.04; unsat
+27;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_34.smt2;0.39;  unsat;0.43;  unsat;0.0; unsat;0.02; unsat
+28;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_35.smt2;0.62;  unsat;0.33;  unsat;0.01; unsat;0.04; unsat
+29;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_36.smt2;0.6;  unsat;0.41;  unsat;0.01; unsat;0.02; unsat
+30;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_37.smt2;0.56;  unsat;0.4;  unsat;0.01; unsat;0.05; unsat
+31;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_38.smt2;0.55;  unsat;0.25;  unsat;0.0; unsat;0.04; unsat
+32;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_39.smt2;0.6;  unsat;0.41;  unsat;0.01; unsat;0.05; unsat
+33;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_4.smt2;0.72;  unsat;0.82;  unsat;0.01; unsat;0.05; unsat
+34;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_40.smt2;0.6;  unsat;0.35;  unsat;0.02; unsat;0.04; unsat
+35;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_41.smt2;0.6;  unsat;0.3;  unsat;0.01; unsat;0.02; unsat
+36;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_42.smt2;0.58;  unsat;0.42;  unsat;0.01; unsat;0.04; unsat
+37;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_43.smt2;0.6;  unsat;0.36;  unsat;0.0; unsat;0.04; unsat
+38;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_44.smt2;0.54;  unsat;0.42;  unsat;0.0; unsat;0.04; unsat
+39;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_45.smt2;0.59;  unsat;0.36;  unsat;0.0; unsat;0.05; unsat
+40;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_46.smt2;0.58;  unsat;0.42;  unsat;0.0; unsat;0.04; unsat
+41;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_48.smt2;0.48;  unsat;0.37;  unsat;0.01; unsat;0.04; unsat
+42;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_49.smt2;0.56;  unsat;0.42;  unsat;0.01; unsat;0.05; unsat
+43;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_5.smt2;0.82;  unsat;0.72;  unsat;0.0; unsat;0.03; unsat
+44;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_55.smt2;0.55;  unsat;0.42;  unsat;0.01; unsat;0.03; unsat
+45;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_58.smt2;0.6;  unsat;0.26;  unsat;0.0; unsat;0.04; unsat
+46;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_59.smt2;0.88;  unsat;0.54;  unsat;0.01; unsat;0.14; unsat
+47;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_6.smt2;0.81;  unsat;0.79;  unsat;0.0; unsat;0.03; unsat
+48;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_60.smt2;6.47;  unsat;TO;TO;0.02; unsat;0.16; unsat
+49;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_61.smt2;6.67;  unsat;TO;TO;0.02; unsat;0.16; unsat
+50;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_62.smt2;6.65;  unsat;TO;TO;0.02; unsat;0.16; unsat
+51;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_63.smt2;2.9;  unsat;TO;TO;0.01; unsat;0.05; unsat
+52;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_64.smt2;2.92;  unsat;TO;TO;0.01; unsat;0.05; unsat
+53;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_65.smt2;2.89;  unsat;TO;TO;0.01; unsat;0.05; unsat
+54;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_66.smt2;3.17;  unsat;TO;TO;0.01; unsat;0.05; unsat
+55;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_67.smt2;3.51;  unsat;43.87;  unsat;0.01; unsat;0.05; unsat
+56;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_68.smt2;3.06;  unsat;TO;TO;0.0; unsat;0.05; unsat
+57;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_69.smt2;TO;TO;0.21;  unsat;0.01; unsat;TO;TO
+58;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_7.smt2;0.46;  unsat;0.44;  unsat;0.01; unsat;0.05; unsat
+59;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_70.smt2;1.96;  sat;3.69;  sat;0.03; sat;0.08; sat
+60;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_71.smt2;1.36;  sat;5.91;  sat;0.01; sat;0.05; sat
+61;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_72.smt2;2.38;  sat;5.78;  sat;0.01; sat;0.05; sat
+62;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_73.smt2;TO;TO;0.29;  unsat;0.02; unsat;0.24; unsat
+63;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_74.smt2;TO;TO;TO;TO;0.02; sat;0.13; sat
+64;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_75.smt2;TO;TO;TO;TO;0.01; sat;0.14; sat
+65;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_76.smt2;TO;TO;TO;TO;0.05; unsat;1.94; unsat
+66;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_77.smt2;TO;TO;0.31;  unsat;0.01; unsat;TO;TO
+67;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_78.smt2;TO;TO;29.23;  unsat;0.01; unsat;TO;TO
+68;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_79.smt2;TO;TO;0.33;  unsat;0.01; unsat;TO;TO
+69;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_8.smt2;0.61;  unsat;0.42;  unsat;0.01; unsat;0.04; unsat
+70;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_80.smt2;TO;TO;0.37;  unsat;0.0; unsat;TO;TO
+71;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_81.smt2;TO;TO;0.32;  unsat;0.0; unsat;TO;TO
+72;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_82.smt2;TO;TO;TO;TO;0.22; unsat;1.54; unsat
+73;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_83.smt2;TO;TO;TO;TO;0.07; unsat;1.21; unsat
+74;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_84.smt2;TO;TO;0.31;  unsat;0.01; unsat;TO;TO
+75;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_85.smt2;TO;TO;0.31;  unsat;0.01; unsat;TO;TO
+76;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_86.smt2;TO;TO;0.29;  unsat;0.01; unsat;TO;TO
+77;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_87.smt2;TO;TO;0.28;  unsat;0.01; unsat;TO;TO
+78;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_88.smt2;TO;TO;0.25;  unsat;0.01; unsat;TO;TO
+79;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_89.smt2;TO;TO;0.53;  unsat;0.01; unsat;TO;TO
+80;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_9.smt2;0.57;  unsat;0.39;  unsat;0.01; unsat;0.04; unsat
+81;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_90.smt2;TO;TO;TO;TO;0.1; unsat;0.47; unsat
+82;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_91.smt2;TO;TO;2.37;  sat;0.02; sat;TO;TO
+83;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_92.smt2;TO;TO;1.34;  unsat;0.02; unsat;0.06; unsat
+84;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_93.smt2;TO;TO;0.3;  unsat;0.01; unsat;TO;TO
+85;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_94.smt2;TO;TO;1.1;  unsat;0.02; unsat;TO;TO
+86;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_95.smt2;TO;TO;TO;TO;0.05; unsat;0.1; unsat
+87;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_96.smt2;TO;TO;TO;TO;TO;TO;0.42; unsat
+88;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_97.smt2;TO;TO;TO;TO;0.14; unsat;0.11; unsat
+89;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem10_label59_true-unreach-call.c_98.smt2;TO;TO;TO;TO;TO;TO;0.3; unsat
+90;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_0.smt2;TO;TO;TO;TO;TO;TO;TO;TO
+91;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_1.smt2;TO;TO;TO;TO;TO;TO;TO;TO
+92;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_10.smt2;TO;TO;TO;TO;0.1; sat;0.03; sat
+93;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_11.smt2;TO;TO;TO;TO;36.16; sat;0.12; sat
+94;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_12.smt2;TO;TO;TO;TO;0.44; sat;0.54; sat
+95;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_13.smt2;TO;TO;TO;TO;0.74; sat;0.48; sat
+96;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_14.smt2;TO;TO;TO;TO;1.04; unsat;0.61; unsat
+97;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_15.smt2;TO;TO;TO;TO;0.17; unsat;0.26; unsat
+98;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_16.smt2;TO;TO;TO;TO;0.23; unsat;0.31; unsat
+99;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_17.smt2;TO;TO;TO;TO;0.34; sat;0.5; sat
+100;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_18.smt2;TO;TO;TO;TO;0.28; unsat;0.44; unsat
+101;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_2.smt2;TO;TO;TO;TO;0.63; sat;0.14; sat
+102;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_3.smt2;TO;TO;TO;TO;0.14; sat;0.15; sat
+103;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_4.smt2;TO;TO;TO;TO;TO;TO;0.14; sat
+104;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_5.smt2;TO;TO;TO;TO;TO;TO;0.2; unsat
+105;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_6.smt2;TO;TO;TO;TO;0.39; sat;0.08; sat
+106;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_7.smt2;TO;TO;TO;TO;0.18; sat;0.1; sat
+107;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_8.smt2;TO;TO;TO;TO;0.12; sat;0.08; sat
+108;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem15_label00_false-unreach-call.c_9.smt2;TO;TO;TO;TO;0.09; sat;0.02; sat
+109;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_0.smt2;6.84;  sat;2.56;  sat;0.01; sat;0.03; sat
+110;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_1.smt2;8.13;  sat;1.71;  sat;0.01; sat;0.03; sat
+111;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_10.smt2;TO;TO;TO;TO;0.01; sat;0.04; sat
+112;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_11.smt2;5.63;  sat;3.05;  sat;0.02; sat;0.03; sat
+113;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_12.smt2;7.98;  sat;2.43;  sat;0.01; sat;0.04; sat
+114;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_13.smt2;5.75;  sat;2.35;  sat;0.01; sat;0.03; sat
+115;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_2.smt2;7.78;  sat;2.49;  sat;0.01; sat;0.04; sat
+116;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_3.smt2;TO;TO;TO;TO;0.0; sat;0.02; sat
+117;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_4.smt2;8.11;  sat;2.56;  sat;0.01; sat;0.03; sat
+118;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_5.smt2;7.89;  sat;2.57;  sat;0.0; sat;0.04; sat
+119;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_6.smt2;8.23;  sat;2.46;  sat;0.01; sat;0.04; sat
+120;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_7.smt2;TO;TO;TO;TO;0.02; sat;0.04; sat
+121;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_8.smt2;ERR;ERR;ERR;ERR;0.0; sat;0.05; sat
+122;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem17_label54_false-unreach-call.c_9.smt2;7.8;  sat;2.39;  sat;0.01; sat;0.03; sat
+123;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_0.smt2;2.92;  sat;32.51;  sat;0.01; sat;0.07; sat
+124;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_1.smt2;2.95;  unsat;37.55;  unsat;0.01; unsat;0.06; unsat
+125;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_10.smt2;6.0;  sat;53.9;  sat;0.04; sat;0.15; sat
+126;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_11.smt2;3.19;  sat;18.39;  sat;0.01; sat;0.12; sat
+127;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_12.smt2;2.89;  sat;26.38;  sat;0.02; sat;0.18; sat
+128;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_13.smt2;TO;TO;TO;TO;0.03; unsat;0.2; unsat
+129;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_2.smt2;2.99;  unsat;33.89;  unsat;0.01; unsat;0.09; unsat
+130;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_3.smt2;1.76;  sat;38.13;  sat;0.01; sat;0.06; sat
+131;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_4.smt2;TO;TO;38.33;  sat;0.18; sat;0.16; sat
+132;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_5.smt2;TO;TO;1.75;  unsat;0.02; unsat;0.1; unsat
+133;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_6.smt2;2.98;  sat;28.42;  sat;0.02; sat;0.11; sat
+134;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_7.smt2;5.83;  sat;51.13;  sat;0.05; sat;0.13; sat
+135;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_8.smt2;1.73;  unsat;23.62;  unsat;0.0; unsat;0.06; unsat
+136;../formulae/20190429-UltimateAutomizerSvcomp2019/Problem18_label34_false-unreach-call.c_9.smt2;2.91;  unsat;23.44;  unsat;0.01; unsat;0.09; unsat
+137;../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_0.smt2;0.26;  sat;0.25;  sat;0.01; sat;0.02; sat
+138;../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_1.smt2;0.24;  sat;0.25;  sat;0.01; sat;0.02; sat
+139;../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_2.smt2;0.25;  sat;0.25;  sat;0.01; sat;0.02; sat
+140;../formulae/20190429-UltimateAutomizerSvcomp2019/byte_add_1_true-unreach-call_true-no-overflow_true-termination.i_3.smt2;0.25;  sat;0.25;  sat;0.01; sat;0.02; sat
+141;../formulae/20190429-UltimateAutomizerSvcomp2019/implicitunsignedconversion_true-unreach-call_true-termination.c_0.smt2;0.28;  sat;0.3;  sat;0.0; sat;0.01; sat
+142;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_0.smt2;3.46;  sat;1.3;  sat;0.01; sat;0.02; sat
+143;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_1.smt2;0.24;  unsat;0.23;  unsat;0.0; unsat;0.03; unsat
+144;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_10.smt2;0.17;  unsat;0.23;  unsat;0.0; unsat;0.04; unsat
+145;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_11.smt2;0.2;  unsat;0.25;  unsat;0.0; unsat;0.04; unsat
+146;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_12.smt2;0.22;  unsat;0.23;  unsat;0.01; unsat;0.04; unsat
+147;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_13.smt2;0.16;  unsat;0.23;  unsat;0.0; unsat;0.04; unsat
+148;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_14.smt2;0.18;  unsat;0.15;  unsat;0.0; unsat;0.05; unsat
+149;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_16.smt2;18.64;  sat;TO;TO;0.01; sat;0.03; sat
+150;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_17.smt2;4.59;  unsat;TO;TO;0.0; unsat;0.05; unsat
+151;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_18.smt2;8.64;  unsat;TO;TO;0.01; unsat;0.05; unsat
+152;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_19.smt2;TO;TO;TO;TO;0.01; sat;0.04; sat
+153;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_2.smt2;1.86;  unsat;0.41;  sat;0.01; unsat;0.06; unsat
+154;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_20.smt2;TO;TO;TO;TO;0.01; unsat;0.03; unsat
+155;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_21.smt2;TO;TO;TO;TO;0.02; unsat;0.05; unsat
+156;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_22.smt2;45.48;  unsat;TO;TO;0.19; unsat;0.07; unsat
+157;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_23.smt2;58.66;  unsat;TO;TO;0.01; unsat;0.07; unsat
+158;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_24.smt2;TO;TO;TO;TO;0.01; sat;0.04; sat
+159;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_25.smt2;TO;TO;TO;TO;0.01; unsat;0.01; unsat
+160;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_3.smt2;0.23;  unsat;0.14;  unsat;0.0; unsat;0.02; unsat
+161;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_4.smt2;0.21;  unsat;0.17;  unsat;0.01; unsat;0.03; unsat
+162;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_5.smt2;0.25;  unsat;0.22;  unsat;0.01; unsat;0.03; unsat
+163;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_6.smt2;0.22;  unsat;0.23;  unsat;0.01; unsat;0.03; unsat
+164;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_7.smt2;0.16;  unsat;0.23;  unsat;0.0; unsat;0.04; unsat
+165;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_8.smt2;0.16;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat
+166;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_2_true-unreach-call_true-no-overflow_false-termination.i_9.smt2;0.17;  unsat;0.14;  unsat;0.0; unsat;0.02; unsat
+167;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_0.smt2;20.34;  unsat;9.03;  unsat;0.0; unsat;0.02; unsat
+168;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_1.smt2;16.87;  unsat;ERR;ERR;0.01; unsat;0.03; unsat
+169;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_10.smt2;TO;TO;TO;TO;TO;TO;0.15; unsat
+170;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_11.smt2;TO;TO;TO;TO;0.06; unsat;0.05; unsat
+171;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_12.smt2;0.33;  unsat;0.31;  unsat;0.0; unsat;0.04; unsat
+172;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_13.smt2;0.39;  unsat;0.43;  unsat;0.04; unsat;0.04; unsat
+173;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_14.smt2;0.35;  unsat;0.33;  unsat;0.01; unsat;0.06; unsat
+174;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_15.smt2;0.36;  unsat;0.34;  unsat;0.01; unsat;0.05; unsat
+175;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_16.smt2;TO;TO;TO;TO;TO;TO;0.13; unsat
+176;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_17.smt2;TO;TO;TO;TO;TO;TO;TO;TO
+177;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_18.smt2;38.62;  unsat;27.48;  sat;1.57; unsat;0.86; unsat
+178;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_2.smt2;0.24;  unsat;0.2;  unsat;0.01; unsat;0.03; unsat
+179;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_3.smt2;TO;TO;28.11;  unsat;TO;TO;0.02; unsat
+180;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_4.smt2;46.98;  unsat;31.61;  unsat;TO;TO;0.02; unsat
+181;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_5.smt2;TO;TO;TO;TO;TO;TO;TO;TO
+182;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_6.smt2;TO;TO;TO;TO;TO;TO;TO;TO
+183;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_7.smt2;TO;TO;TO;TO;0.01; sat;TO;TO
+184;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_8.smt2;TO;TO;TO;TO;TO;TO;0.15; unsat
+185;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_6_true-unreach-call_true-no-overflow_false-termination.i_9.smt2;TO;TO;TO;TO;10.84; unsat;0.06; unsat
+186;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_0.smt2;TO;TO;TO;TO;0.01; unsat;0.06; unsat
+187;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_1.smt2;TO;TO;TO;TO;TO;TO;0.4; unsat
+188;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_10.smt2;TO;TO;0.24;  unsat;0.01; unsat;0.03; unsat
+189;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_11.smt2;TO;TO;0.23;  unsat;0.01; unsat;TO;TO
+190;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_12.smt2;TO;TO;TO;TO;TO;TO;0.12; unsat
+191;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_13.smt2;TO;TO;TO;TO;TO;TO;0.11; unsat
+192;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_14.smt2;TO;TO;TO;TO;TO;TO;0.15; unsat
+193;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_15.smt2;TO;TO;TO;TO;TO;TO;0.12; unsat
+194;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_16.smt2;TO;TO;TO;TO;TO;TO;0.16; unsat
+195;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_17.smt2;TO;TO;TO;TO;TO;TO;0.14; unsat
+196;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_18.smt2;TO;TO;TO;TO;0.19; sat;0.08; sat
+197;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_2.smt2;TO;TO;0.14;  unsat;0.01; unsat;0.04; unsat
+198;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_3.smt2;TO;TO;0.24;  unsat;0.02; unsat;0.05; unsat
+199;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_4.smt2;TO;TO;0.22;  unsat;0.01; unsat;0.05; unsat
+200;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_5.smt2;TO;TO;0.22;  unsat;0.01; unsat;0.06; unsat
+201;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_6.smt2;TO;TO;0.24;  unsat;TO;TO;0.04; unsat
+202;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_7.smt2;TO;TO;0.14;  unsat;0.02; unsat;0.06; unsat
+203;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_8.smt2;TO;TO;0.23;  unsat;0.01; unsat;0.07; unsat
+204;../formulae/20190429-UltimateAutomizerSvcomp2019/jain_7_true-unreach-call_true-no-overflow_false-termination.i_9.smt2;TO;TO;0.23;  unsat;0.02; unsat;0.07; unsat
+205;../formulae/20190429-UltimateAutomizerSvcomp2019/pals_lcr-var-start-time.6_true-unreach-call.ufo.UNBOUNDED.pals.c_1.smt2;0.9;  sat;0.51;  sat;0.01; sat;0.05; sat
+206;../formulae/20190429-UltimateAutomizerSvcomp2019/s3_srvr_2_true-unreach-call_true-no-overflow_false-termination.BV.c.cil.c_0.smt2;0.28;  sat;0.26;  sat;0.0; sat;0.01; sat
+207;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_0.smt2;5.08;  sat;TO;TO;0.29; sat;6.88; sat
+208;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_1.smt2;6.97;  sat;TO;TO;0.07; sat;TO;TO
+209;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_10.smt2;7.53;  unsat;22.4;  unsat;TO;TO;TO;TO
+210;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_11.smt2;5.64;  unsat;16.6;  unsat;TO;TO;TO;TO
+211;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_2.smt2;13.83;  unsat;24.91;  sat;0.5; unsat;0.28; unsat
+212;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_3.smt2;20.56;  sat;26.18;  unsat;TO;TO;TO;TO
+213;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_4.smt2;12.92;  unsat;28.4;  unsat;TO;TO;0.07; unsat
+214;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_5.smt2;10.31;  unsat;23.26;  unsat;TO;TO;TO;TO
+215;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_6.smt2;18.18;  sat;22.76;  unsat;TO;TO;TO;TO
+216;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_7.smt2;7.51;  unsat;20.78;  unsat;TO;TO;0.11; unsat
+217;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_8.smt2;8.62;  unsat;15.42;  unsat;TO;TO;10.97; unsat
+218;../formulae/20190429-UltimateAutomizerSvcomp2019/verisec_sendmail__tTflag_arr_one_loop_false-unreach-call_true-termination.i_9.smt2;5.32;  unsat;15.03;  unsat;TO;TO;TO;TO
