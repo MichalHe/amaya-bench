@@ -1,21 +1,21 @@
-name;cvc5;z3;amaya
-../formulae/frobenius/fcp_59_61.smt2;TO;TO;1.76
-../formulae/frobenius/fcp_29_31.smt2;TO;TO;0.46
-../formulae/frobenius/fcp_61_67.smt2;TO;TO;1.13
-../formulae/frobenius/fcp_13_17.smt2;TO;TO;0.19
-../formulae/frobenius/fcp_2_3.smt2;0.07;0.02;0.24
-../formulae/frobenius/fcp_19_23.smt2;TO;TO;0.33
-../formulae/frobenius/fcp_7_11.smt2;TO;1.32;0.28
-../formulae/frobenius/fcp_5_7.smt2;TO;8.88;0.2
-../formulae/frobenius/fcp_53_59.smt2;TO;TO;1.46
-../formulae/frobenius/fcp_43_47.smt2;TO;TO;0.96
-../formulae/frobenius/fcp_71_73.smt2;TO;TO;2.75
-../formulae/frobenius/fcp_67_71.smt2;TO;TO;2.09
-../formulae/frobenius/fcp_17_19.smt2;TO;TO;0.32
-../formulae/frobenius/fcp_11_13.smt2;TO;TO;0.29
-../formulae/frobenius/fcp_41_43.smt2;TO;TO;0.72
-../formulae/frobenius/fcp_3_5.smt2;TO;0.07;0.25
-../formulae/frobenius/fcp_37_41.smt2;TO;TO;0.72
-../formulae/frobenius/fcp_23_29.smt2;TO;TO;0.43
-../formulae/frobenius/fcp_31_37.smt2;TO;TO;0.54
-../formulae/frobenius/fcp_47_53.smt2;TO;TO;0.78
+name;amaya-runtime;amaya-result;z3-runtime;z3-result;cvc5-runtime;cvc5-result;princess-runtime;princess-result;lash-runtime;lash-result
+../formulae/frobenius/smt2/fcp_2_3.smt2;0.29;  sat;0.02; sat;0.09; sat;2.25; sat;0.01; sat
+../formulae/frobenius/smt2/fcp_3_5.smt2;0.28;  sat;0.05; sat;TO;TO;2.59; sat;0.01; sat
+../formulae/frobenius/smt2/fcp_5_7.smt2;0.29;  sat;8.85; sat;TO;TO;3.9; sat;0.02; sat
+../formulae/frobenius/smt2/fcp_7_11.smt2;0.31;  sat;1.33; sat;TO;TO;5.53; sat;0.02; sat
+../formulae/frobenius/smt2/fcp_11_13.smt2;0.27;  sat;TO;TO;TO;TO;8.25; sat;0.04; sat
+../formulae/frobenius/smt2/fcp_13_17.smt2;0.33;  sat;TO;TO;TO;TO;9.91; sat;0.08; sat
+../formulae/frobenius/smt2/fcp_17_19.smt2;0.3;  sat;TO;TO;TO;TO;12.22; sat;0.07; sat
+../formulae/frobenius/smt2/fcp_19_23.smt2;0.37;  sat;TO;TO;TO;TO;13.59; sat;0.13; sat
+../formulae/frobenius/smt2/fcp_23_29.smt2;0.39;  sat;TO;TO;TO;TO;16.78; sat;0.27; sat
+../formulae/frobenius/smt2/fcp_29_31.smt2;0.49;  sat;TO;TO;TO;TO;22.62; sat;0.35; sat
+../formulae/frobenius/smt2/fcp_31_37.smt2;0.58;  sat;TO;TO;TO;TO;20.7; sat;0.49; sat
+../formulae/frobenius/smt2/fcp_37_41.smt2;0.67;  sat;TO;TO;TO;TO;24.82; sat;0.83; sat
+../formulae/frobenius/smt2/fcp_41_43.smt2;0.52;  sat;TO;TO;TO;TO;29.34; sat;0.8; sat
+../formulae/frobenius/smt2/fcp_43_47.smt2;0.81;  sat;TO;TO;TO;TO;33.39; sat;1.19; sat
+../formulae/frobenius/smt2/fcp_47_53.smt2;1.02;  sat;TO;TO;TO;TO;31.8; sat;1.69; sat
+../formulae/frobenius/smt2/fcp_53_59.smt2;1.38;  sat;TO;TO;TO;TO;35.12; sat;1.9; sat
+../formulae/frobenius/smt2/fcp_59_61.smt2;1.57;  sat;TO;TO;TO;TO;38.75; sat;1.55; sat
+../formulae/frobenius/smt2/fcp_61_67.smt2;0.98;  sat;TO;TO;TO;TO;43.63; sat;2.36; sat
+../formulae/frobenius/smt2/fcp_67_71.smt2;2.69;  sat;TO;TO;TO;TO;47.19; sat;2.54; sat
+../formulae/frobenius/smt2/fcp_71_73.smt2;2.76;  sat;TO;TO;TO;TO;49.59; sat;2.41; sat
