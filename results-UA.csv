@@ -1,154 +1,154 @@
 name;amaya-old-runtime;amaya-old-result;amaya-new-runtime;amaya-new-result;z3-runtime;z3-result;cvc5-runtime;cvc5-result;lash-runtime;lash-result;princess-result;princess-runtime
-MADWiFi-encode_ie_ok_true-unreach-call.i_17;0.22;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.11
-MADWiFi-encode_ie_ok_true-unreach-call.i_7;0.31;  unsat;0.29;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.11
-Primes_true-unreach-call.c_127;0.31;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;ERR;ERR; unsat;1.13
-Primes_true-unreach-call.c_1657;1.75;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.09; sat; unsat;1.19
-Primes_true-unreach-call.c_187;0.34;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;ERR;ERR; unsat;1.14
-Primes_true-unreach-call.c_2207;0.26;  unsat;0.18;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.12
-Primes_true-unreach-call.c_2317;0.31;  unsat;0.26;  unsat;0.01; unsat;0.01; unsat;0.02; sat; unsat;1.1
-Primes_true-unreach-call.c_237;0.19;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.09
-Primes_true-unreach-call.c_276;0.25;  unsat;0.18;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.1
-Primes_true-unreach-call.c_297;0.31;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.03; sat; unsat;1.14
-Primes_true-unreach-call.c_597;0.25;  unsat;0.24;  unsat;0.0; unsat;0.0; unsat;0.02; sat; unsat;1.09
-Primes_true-unreach-call.c_657;0.3;  unsat;0.24;  unsat;0.01; unsat;0.02; unsat;0.02; sat; unsat;1.14
-Primes_true-unreach-call.c_670;0.35;  unsat;0.23;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.12
-Primes_true-unreach-call.c_671;0.32;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.13
-Primes_true-unreach-call.c_673;0.25;  unsat;0.24;  unsat;0.0; unsat;0.0; unsat;ERR;ERR; unsat;1.13
-Primes_true-unreach-call.c_678;0.29;  unsat;0.27;  unsat;0.01; unsat;0.01; unsat;ERR;ERR; unsat;1.13
-Primes_true-unreach-call.c_798;1.09;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;ERR;ERR; unsat;1.12
-nested6_true-unreach-call.i_7;0.24;  unsat;0.2;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_1070;0.27;  unsat;0.24;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.07
-nested9_true-unreach-call.i_1072;0.22;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_1107;0.21;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_1117;0.27;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_1170;0.28;  unsat;0.17;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_1172;0.27;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1307;0.25;  unsat;0.24;  unsat;0.0; unsat;0.0; unsat;0.02; sat; unsat;1.05
-nested9_true-unreach-call.i_1317;0.27;  unsat;0.26;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_1337;0.27;  unsat;0.25;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_1357;0.27;  unsat;0.22;  unsat;0.01; unsat;0.01; unsat;0.0; sat; unsat;1.16
-nested9_true-unreach-call.i_1370;0.27;  unsat;0.27;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_1371;0.25;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_1375;0.3;  unsat;0.19;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1379;0.23;  unsat;0.23;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1427;0.22;  unsat;0.24;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.07
-nested9_true-unreach-call.i_1437;0.25;  unsat;0.25;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_1471;0.26;  unsat;0.24;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_1475;0.25;  unsat;0.26;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1477;0.25;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.04
-nested9_true-unreach-call.i_1479;0.28;  unsat;0.24;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1575;0.31;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.18
-nested9_true-unreach-call.i_1578;0.26;  unsat;0.24;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.15
-nested9_true-unreach-call.i_1597;0.29;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.15
-nested9_true-unreach-call.i_1676;0.24;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1677;0.26;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1679;0.31;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.19
-nested9_true-unreach-call.i_17;0.28;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_1703;0.32;  unsat;0.28;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1707;0.29;  unsat;0.28;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_1720;0.22;  unsat;0.22;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1722;0.31;  unsat;0.29;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1723;0.3;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1726;0.29;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1728;0.21;  unsat;0.28;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1729;0.31;  unsat;0.19;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_173;0.25;  unsat;0.23;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_1732;0.29;  unsat;0.29;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_1736;0.29;  unsat;0.25;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_1737;0.29;  unsat;0.26;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.22
-nested9_true-unreach-call.i_1738;0.26;  unsat;0.23;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1739;0.3;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.17
-nested9_true-unreach-call.i_1741;0.28;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_1748;0.22;  unsat;0.23;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1749;0.3;  unsat;0.28;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_175;0.25;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.0; sat; unsat;1.08
-nested9_true-unreach-call.i_1752;0.28;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_1755;0.29;  unsat;0.25;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1758;0.27;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1761;0.22;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_1764;0.22;  unsat;0.28;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_1767;0.31;  unsat;0.26;  unsat;0.01; unsat;0.01; unsat;0.02; sat; unsat;1.11
-nested9_true-unreach-call.i_1770;0.31;  unsat;0.18;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.11
-nested9_true-unreach-call.i_1777;0.26;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1778;0.29;  unsat;0.27;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_1781;0.29;  unsat;0.16;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1784;0.29;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_1785;0.29;  unsat;0.25;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1786;0.31;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_1789;0.27;  unsat;0.2;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_179;0.23;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_1792;0.27;  unsat;0.3;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.08
-nested9_true-unreach-call.i_1795;0.28;  unsat;0.25;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.15
-nested9_true-unreach-call.i_1798;0.31;  unsat;0.19;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1817;0.27;  unsat;0.18;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_1847;0.24;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_187;0.26;  unsat;0.24;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1874;0.27;  unsat;0.27;  unsat;0.01; unsat;0.03; unsat;0.02; sat; unsat;1.11
-nested9_true-unreach-call.i_1875;0.27;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1877;0.29;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_1878;0.28;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_1879;0.31;  unsat;0.29;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_1887;0.24;  unsat;0.26;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_1897;0.29;  unsat;0.27;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_277;0.2;  unsat;0.26;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.07
-nested9_true-unreach-call.i_357;0.26;  unsat;0.24;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_378;0.27;  unsat;0.27;  unsat;0.01; unsat;0.02; unsat;0.0; sat; unsat;1.11
-nested9_true-unreach-call.i_379;0.27;  unsat;0.25;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_447;0.26;  unsat;0.25;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_470;0.27;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_473;0.23;  unsat;0.27;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_497;0.27;  unsat;0.19;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_507;0.27;  unsat;0.2;  unsat;0.0; unsat;0.0; unsat;0.0; sat; unsat;1.11
-nested9_true-unreach-call.i_527;0.25;  unsat;0.25;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_537;0.28;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_573;0.25;  unsat;0.25;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_574;0.25;  unsat;0.23;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_575;0.25;  unsat;0.22;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_627;0.19;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.15
-nested9_true-unreach-call.i_637;0.27;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_670;0.27;  unsat;0.26;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_7;0.2;  unsat;0.2;  unsat;0.0; unsat;0.01; unsat;0.0; sat; unsat;1.06
-nested9_true-unreach-call.i_703;0.3;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_707;0.29;  unsat;0.27;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_71;0.27;  unsat;0.28;  unsat;0.01; unsat;0.02; unsat;0.0; sat; unsat;1.1
-nested9_true-unreach-call.i_713;0.31;  unsat;0.22;  unsat;0.0; unsat;0.03; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_720;0.28;  unsat;0.23;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.17
-nested9_true-unreach-call.i_725;0.3;  unsat;0.26;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.16
-nested9_true-unreach-call.i_728;0.24;  unsat;0.22;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.17
-nested9_true-unreach-call.i_73;0.26;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_744;0.24;  unsat;0.26;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_746;0.24;  unsat;0.25;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_751;0.31;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_753;0.29;  unsat;0.29;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_755;0.26;  unsat;0.28;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.11
-nested9_true-unreach-call.i_762;0.3;  unsat;0.29;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.06
-nested9_true-unreach-call.i_763;0.27;  unsat;0.28;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.09
-nested9_true-unreach-call.i_766;0.27;  unsat;0.29;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_775;0.29;  unsat;0.28;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.18
-nested9_true-unreach-call.i_780;0.19;  unsat;0.27;  unsat;0.0; unsat;0.03; unsat;0.01; sat; unsat;1.18
-nested9_true-unreach-call.i_785;0.31;  unsat;0.2;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.15
-nested9_true-unreach-call.i_788;0.27;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.14
-nested9_true-unreach-call.i_807;0.31;  unsat;0.29;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_817;0.26;  unsat;0.18;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.13
-nested9_true-unreach-call.i_870;0.29;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
-nested9_true-unreach-call.i_887;0.29;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
-nested9_true-unreach-call.i_927;0.26;  unsat;0.24;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.12
-nested9_true-unreach-call.i_947;0.24;  unsat;0.2;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.13
-recHanoi03_true-unreach-call_true-termination.c_1478;0.29;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat;0.03; sat; unsat;1.08
-recHanoi03_true-unreach-call_true-termination.c_1735;0.25;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.06
-recHanoi03_true-unreach-call_true-termination.c_1757;0.29;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.03; sat; unsat;1.1
-recHanoi03_true-unreach-call_true-termination.c_2147;0.23;  unsat;0.23;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.09
-recHanoi03_true-unreach-call_true-termination.c_2175;0.24;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.06
-recHanoi03_true-unreach-call_true-termination.c_2715;0.3;  unsat;0.27;  unsat;0.0; unsat;0.02; unsat;0.03; sat; unsat;1.12
-recHanoi03_true-unreach-call_true-termination.c_2746;0.35;  unsat;0.25;  unsat;0.01; unsat;0.03; unsat;0.1; sat; unsat;1.08
-recHanoi03_true-unreach-call_true-termination.c_278;0.27;  unsat;0.21;  unsat;0.01; unsat;0.02; unsat;0.03; sat; unsat;1.07
-recHanoi03_true-unreach-call_true-termination.c_287;0.34;  unsat;0.23;  unsat;0.0; unsat;0.01; unsat;0.08; sat; unsat;1.11
-recHanoi03_true-unreach-call_true-termination.c_3227;0.28;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.08
-recHanoi03_true-unreach-call_true-termination.c_367;0.39;  unsat;0.26;  unsat;0.01; unsat;0.04; unsat;0.05; sat; unsat;1.08
-recHanoi03_true-unreach-call_true-termination.c_3872;0.26;  unsat;0.23;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
-recHanoi03_true-unreach-call_true-termination.c_557;0.3;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.06; sat; unsat;1.09
-recHanoi03_true-unreach-call_true-termination.c_597;0.34;  unsat;0.22;  unsat;0.01; unsat;0.04; unsat;0.08; sat; unsat;1.12
-recHanoi03_true-unreach-call_true-termination.c_73;0.26;  unsat;0.26;  unsat;0.0; unsat;0.0; unsat;0.0; sat; unsat;1.04
-recHanoi03_true-unreach-call_true-termination.c_847;0.25;  unsat;0.25;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.02
-recHanoi03_true-unreach-call_true-termination.c_874;0.25;  unsat;0.24;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;0.98
-recHanoi03_true-unreach-call_true-termination.c_876;0.18;  unsat;0.22;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;0.95
+MADWiFi-encode_ie_ok_true-unreach-call.i_17;0.6;  unsat;0.23;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.11
+MADWiFi-encode_ie_ok_true-unreach-call.i_7;0.81;  unsat;0.28;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.11
+Primes_true-unreach-call.c_127;0.37;  unsat;0.19;  unsat;0.0; unsat;0.01; unsat;ERR;ERR; unsat;1.13
+Primes_true-unreach-call.c_1657;0.44;  unsat;0.21;  unsat;0.0; unsat;0.01; unsat;0.09; sat; unsat;1.19
+Primes_true-unreach-call.c_187;0.48;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;ERR;ERR; unsat;1.14
+Primes_true-unreach-call.c_2207;0.63;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.12
+Primes_true-unreach-call.c_2317;0.49;  unsat;0.22;  unsat;0.01; unsat;0.01; unsat;0.02; sat; unsat;1.1
+Primes_true-unreach-call.c_237;0.38;  unsat;0.25;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.09
+Primes_true-unreach-call.c_276;0.38;  unsat;0.21;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.1
+Primes_true-unreach-call.c_297;0.47;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.03; sat; unsat;1.14
+Primes_true-unreach-call.c_597;0.37;  unsat;0.23;  unsat;0.0; unsat;0.0; unsat;0.02; sat; unsat;1.09
+Primes_true-unreach-call.c_657;0.74;  unsat;0.27;  unsat;0.01; unsat;0.02; unsat;0.02; sat; unsat;1.14
+Primes_true-unreach-call.c_670;0.62;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.12
+Primes_true-unreach-call.c_671;0.48;  unsat;0.23;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.13
+Primes_true-unreach-call.c_673;0.41;  unsat;0.23;  unsat;0.0; unsat;0.0; unsat;ERR;ERR; unsat;1.13
+Primes_true-unreach-call.c_678;0.46;  unsat;0.22;  unsat;0.01; unsat;0.01; unsat;ERR;ERR; unsat;1.13
+Primes_true-unreach-call.c_798;0.59;  unsat;0.24;  unsat;0.0; unsat;0.01; unsat;ERR;ERR; unsat;1.12
+nested6_true-unreach-call.i_7;0.49;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_1070;0.41;  unsat;0.26;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.07
+nested9_true-unreach-call.i_1072;0.4;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_1107;0.62;  unsat;0.22;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_1117;0.4;  unsat;0.27;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_1170;0.76;  unsat;0.26;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_1172;0.49;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1307;0.42;  unsat;0.23;  unsat;0.0; unsat;0.0; unsat;0.02; sat; unsat;1.05
+nested9_true-unreach-call.i_1317;0.64;  unsat;0.27;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_1337;0.54;  unsat;0.3;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_1357;0.49;  unsat;0.27;  unsat;0.01; unsat;0.01; unsat;0.0; sat; unsat;1.16
+nested9_true-unreach-call.i_1370;0.36;  unsat;0.22;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_1371;0.51;  unsat;0.22;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_1375;0.48;  unsat;0.25;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1379;0.47;  unsat;0.23;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1427;0.51;  unsat;0.23;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.07
+nested9_true-unreach-call.i_1437;0.72;  unsat;0.33;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_1471;0.57;  unsat;0.25;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_1475;0.46;  unsat;0.22;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1477;0.43;  unsat;0.28;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.04
+nested9_true-unreach-call.i_1479;0.43;  unsat;0.2;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1575;0.57;  unsat;0.21;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.18
+nested9_true-unreach-call.i_1578;0.37;  unsat;0.22;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.15
+nested9_true-unreach-call.i_1597;0.45;  unsat;0.25;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.15
+nested9_true-unreach-call.i_1676;0.61;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1677;0.45;  unsat;0.25;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1679;0.76;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.19
+nested9_true-unreach-call.i_17;0.4;  unsat;0.19;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_1703;0.4;  unsat;0.26;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1707;0.81;  unsat;0.43;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_1720;0.73;  unsat;0.24;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1722;5.48;  unsat;1.88;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1723;5.47;  unsat;1.58;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1726;4.98;  unsat;1.29;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1728;2.04;  unsat;0.56;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1729;2.29;  unsat;0.51;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_173;2.47;  unsat;0.52;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_1732;3.04;  unsat;1.02;  unsat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_1736;3.53;  unsat;1.02;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_1737;2.78;  unsat;1.16;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.22
+nested9_true-unreach-call.i_1738;TO;TO;0.35;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1739;0.44;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.17
+nested9_true-unreach-call.i_1741;3.07;  sat;1.95;  sat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_1748;1.85;  sat;1.46;  sat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1749;2.75;  sat;1.51;  sat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_175;TO;TO;0.3;  unsat;0.01; unsat;0.01; unsat;0.0; sat; unsat;1.08
+nested9_true-unreach-call.i_1752;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_1755;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1758;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1761;TO;TO;0.34;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_1764;TO;TO;20.54;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_1767;TO;TO;0.24;  unsat;0.01; unsat;0.01; unsat;0.02; sat; unsat;1.11
+nested9_true-unreach-call.i_1770;0.3;  unsat;0.14;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.11
+nested9_true-unreach-call.i_1777;TO;TO;0.23;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1778;TO;TO;0.21;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_1781;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1784;TO;TO;TO;TO;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_1785;TO;TO;0.23;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1786;TO;TO;0.21;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_1789;TO;TO;0.25;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_179;TO;TO;0.15;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_1792;TO;TO;0.15;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.08
+nested9_true-unreach-call.i_1795;TO;TO;0.37;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.15
+nested9_true-unreach-call.i_1798;0.36;  unsat;0.17;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1817;TO;TO;TO;TO;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_1847;TO;TO;1.49;  sat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_187;TO;TO;0.41;  unsat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1874;TO;TO;0.44;  unsat;0.01; unsat;0.03; unsat;0.02; sat; unsat;1.11
+nested9_true-unreach-call.i_1875;TO;TO;0.92;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1877;TO;TO;33.24;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_1878;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_1879;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_1887;TO;TO;TO;TO;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_1897;TO;TO;TO;TO;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_277;TO;TO;TO;TO;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.07
+nested9_true-unreach-call.i_357;TO;TO;TO;TO;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_378;TO;TO;TO;TO;0.01; unsat;0.02; unsat;0.0; sat; unsat;1.11
+nested9_true-unreach-call.i_379;TO;TO;TO;TO;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_447;TO;TO;TO;TO;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_470;TO;TO;TO;TO;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_473;TO;TO;TO;TO;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_497;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_507;TO;TO;TO;TO;0.0; unsat;0.0; unsat;0.0; sat; unsat;1.11
+nested9_true-unreach-call.i_527;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_537;TO;TO;TO;TO;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_573;TO;TO;TO;TO;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_574;TO;TO;TO;TO;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_575;TO;TO;TO;TO;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_627;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.15
+nested9_true-unreach-call.i_637;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_670;TO;TO;TO;TO;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_7;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.0; sat; unsat;1.06
+nested9_true-unreach-call.i_703;6.81;  sat;1.28;  sat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_707;6.04;  sat;1.71;  sat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_71;TO;TO;TO;TO;0.01; unsat;0.02; unsat;0.0; sat; unsat;1.1
+nested9_true-unreach-call.i_713;5.72;  sat;1.81;  sat;0.0; unsat;0.03; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_720;5.14;  sat;1.12;  sat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.17
+nested9_true-unreach-call.i_725;5.75;  sat;1.04;  sat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.16
+nested9_true-unreach-call.i_728;5.44;  sat;1.22;  sat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.17
+nested9_true-unreach-call.i_73;TO;TO;TO;TO;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_744;5.53;  sat;1.02;  sat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_746;5.53;  sat;1.05;  sat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_751;5.45;  sat;1.06;  sat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_753;TO;TO;TO;TO;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_755;TO;TO;TO;TO;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.11
+nested9_true-unreach-call.i_762;6.39;  sat;1.09;  sat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.06
+nested9_true-unreach-call.i_763;1.91;  sat;7.74;  sat;0.0; unsat;0.02; unsat;0.01; sat; unsat;1.09
+nested9_true-unreach-call.i_766;1.82;  unsat;7.92;  unsat;0.01; unsat;0.03; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_775;4.28;  sat;14.58;  sat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.18
+nested9_true-unreach-call.i_780;3.29;  sat;5.59;  sat;0.0; unsat;0.03; unsat;0.01; sat; unsat;1.18
+nested9_true-unreach-call.i_785;3.2;  sat;5.91;  sat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.15
+nested9_true-unreach-call.i_788;TO;TO;TO;TO;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.14
+nested9_true-unreach-call.i_807;3.12;  unsat;10.67;  unsat;0.01; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_817;2.64;  sat;10.08;  sat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.13
+nested9_true-unreach-call.i_870;TO;TO;9.91;  sat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.1
+nested9_true-unreach-call.i_887;TO;TO;0.86;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.08
+nested9_true-unreach-call.i_927;2.08;  sat;3.42;  sat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.12
+nested9_true-unreach-call.i_947;3.88;  sat;13.37;  sat;0.01; unsat;0.02; unsat;0.01; sat; unsat;1.13
+recHanoi03_true-unreach-call_true-termination.c_1478;1.89;  unsat;3.85;  unsat;0.0; unsat;0.02; unsat;0.03; sat; unsat;1.08
+recHanoi03_true-unreach-call_true-termination.c_1735;1.81;  unsat;3.04;  unsat;0.0; unsat;0.0; unsat;0.01; sat; unsat;1.06
+recHanoi03_true-unreach-call_true-termination.c_1757;0.18;  sat;0.17;  sat;0.01; unsat;0.01; unsat;0.03; sat; unsat;1.1
+recHanoi03_true-unreach-call_true-termination.c_2147;0.16;  sat;0.14;  sat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.09
+recHanoi03_true-unreach-call_true-termination.c_2175;0.33;  sat;0.29;  sat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.06
+recHanoi03_true-unreach-call_true-termination.c_2715;0.29;  sat;0.26;  sat;0.0; unsat;0.02; unsat;0.03; sat; unsat;1.12
+recHanoi03_true-unreach-call_true-termination.c_2746;0.35;  sat;0.38;  sat;0.01; unsat;0.03; unsat;0.1; sat; unsat;1.08
+recHanoi03_true-unreach-call_true-termination.c_278;0.73;  sat;0.4;  sat;0.01; unsat;0.02; unsat;0.03; sat; unsat;1.07
+recHanoi03_true-unreach-call_true-termination.c_287;0.28;  unsat;0.29;  unsat;0.0; unsat;0.01; unsat;0.08; sat; unsat;1.11
+recHanoi03_true-unreach-call_true-termination.c_3227;0.3;  unsat;0.28;  unsat;0.0; unsat;0.01; unsat;0.02; sat; unsat;1.08
+recHanoi03_true-unreach-call_true-termination.c_367;0.32;  unsat;0.24;  unsat;0.01; unsat;0.04; unsat;0.05; sat; unsat;1.08
+recHanoi03_true-unreach-call_true-termination.c_3872;0.3;  unsat;0.26;  unsat;0.0; unsat;0.01; unsat;0.01; sat; unsat;1.09
+recHanoi03_true-unreach-call_true-termination.c_557;0.31;  unsat;0.27;  unsat;0.0; unsat;0.01; unsat;0.06; sat; unsat;1.09
+recHanoi03_true-unreach-call_true-termination.c_597;0.25;  unsat;0.22;  unsat;0.01; unsat;0.04; unsat;0.08; sat; unsat;1.12
+recHanoi03_true-unreach-call_true-termination.c_73;1.53;  sat;0.27;  sat;0.0; unsat;0.0; unsat;0.0; sat; unsat;1.04
+recHanoi03_true-unreach-call_true-termination.c_847;1.51;  unsat;0.22;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;1.02
+recHanoi03_true-unreach-call_true-termination.c_874;1.7;  unsat;0.19;  unsat;0.01; unsat;0.0; unsat;0.01; sat; unsat;0.98
+recHanoi03_true-unreach-call_true-termination.c_876;5.91;  sat;0.41;  sat;0.01; unsat;0.01; unsat;0.01; sat; unsat;0.95
